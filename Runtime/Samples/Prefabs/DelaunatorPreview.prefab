@@ -40,21 +40,21 @@ MonoBehaviour:
   m_GameObject: {fileID: 1292916145698231221}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b27df8ed0c9f59541aec9cf7e1d52524, type: 3}
+  m_Script: {fileID: 11500000, guid: f1c88a4b9e28f8645b88feecfc0f6e08, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trianglePointPrefab: {fileID: 5961768956659207801, guid: b713f930e7609a7439d911fd1e79ef6a,
+  trianglePointPrefab: {fileID: 5961768956659207801, guid: c31800eeb430deb4b96b784ea16dd9cf,
     type: 3}
-  voronoiPointPrefab: {fileID: 5961768956659207801, guid: 7a819736853b1bb4abd2da80236ada00,
+  voronoiPointPrefab: {fileID: 5961768956659207801, guid: 6c0e382d52a86f448ba06f8ff7c14a96,
     type: 3}
   voronoiEdgeWidth: 0.01
   triangleEdgeWidth: 0.01
-  hullEdgeWith: 0.02
+  hullEdgeWith: 0.03
   triangleEdgeColor: {r: 0, g: 0, b: 0, a: 1}
-  hullColor: {r: 1, g: 0.5668886, b: 0, a: 1}
+  hullColor: {r: 1, g: 0.56366897, b: 0, a: 1}
   voronoiColor: {r: 1, g: 1, b: 1, a: 1}
-  meshMaterial: {fileID: 2100000, guid: c861c47d3a8a4064ea3bd434520ea6cc, type: 2}
-  lineMaterial: {fileID: 2100000, guid: 1dc6695b65880b941b9341c3a2de4da8, type: 2}
+  meshMaterial: {fileID: 2100000, guid: f6a42aa8c693b6c4ebf406ff7e09ef4a, type: 2}
+  lineMaterial: {fileID: 2100000, guid: fe60369f18361df418fb98a1ee9d6ea5, type: 2}
   generationSize: 4.5
   generationMinDistance: 0.35
   drawTrianglePoints: 1
